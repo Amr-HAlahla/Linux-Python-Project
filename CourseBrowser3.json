@@ -1,0 +1,3024 @@
+{
+  "COMP111-Lecture-1": {
+    "Instructor": "Furat Mashhoor Ahmad Daoud",
+    "T": "08:00 - 09:40",
+    "R": "08:00 - 09:40"
+  },
+  "COMP111-Lecture-2": {
+    "Instructor": "Furat Mashhoor Ahmad Daoud",
+    "M": "14:00 - 15:40",
+    "W": "14:00 - 15:40"
+  },
+  "COMP122-Lecture-1": {
+    "Instructor": "Radi A. R. Jarrar",
+    "M": "13:00 - 13:50",
+    "W": "13:00 - 13:50"
+  },
+  "COMP122-Lab-1": {
+    "Instructor": "Doaa Yousef Mohammad Ikhzamia",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "COMP122-Lab-2": {
+    "Instructor": "Ruba K. M. Sawalha",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "COMP132-Lecture-1": {
+    "Instructor": "Mohammad Y. M. Alkhanafseh",
+    "M": "10:00 - 11:40",
+    "W": "10:00 - 11:40"
+  },
+  "COMP132-Lab-1": {
+    "Instructor": "Mohammad Y. M. Alkhanafseh",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "COMP133-Lecture-1": {
+    "Instructor": "Samer Mas'Oud Ahmad Zein",
+    "M": "09:20 - 10:10",
+    "T": "09:20 - 10:10",
+    "W": "09:20 - 10:10",
+    "R": "09:20 - 10:10"
+  },
+  "COMP133-Lab-1": {
+    "Instructor": "Samer Mas'Oud Ahmad Zein",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "COMP133-Lab-2": {
+    "Instructor": "Samer Mas'Oud Ahmad Zein",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "COMP1331-Lecture-1": {
+    "Instructor": "Hafez Ali Hafez Barghouthi",
+    "M": "09:00 - 10:40",
+    "W": "09:00 - 10:40"
+  },
+  "COMP1331-Lecture-2": {
+    "Instructor": "Mamoun I. A. Nawahdah",
+    "M": "09:00 - 10:40",
+    "W": "09:00 - 10:40"
+  },
+  "COMP1331-Lab-1": {
+    "Instructor": "Hafez Ali Hafez Barghouthi",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "COMP1331-Lab-2": {
+    "Instructor": "Hafez Ali Hafez Barghouthi",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "COMP1331-Lab-3": {
+    "Instructor": "Mamoun I. A. Nawahdah",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "COMP231-Lecture-1": {
+    "Instructor": "Abdallah Haidar Mohammad Karakra",
+    "M": "12:20 - 13:10",
+    "T": "12:20 - 13:10",
+    "W": "12:20 - 13:10",
+    "R": "12:20 - 13:10"
+  },
+  "COMP231-Lab-1": {
+    "Instructor": "Abdallah Haidar Mohammad Karakra",
+    "T": "08:00 - 10:40",
+    "R": "08:00 - 10:40"
+  },
+  "COMP231-Lab-2": {
+    "Instructor": "Abdallah Haidar Mohammad Karakra",
+    "M": "08:00 - 10:40",
+    "W": "08:00 - 10:40"
+  },
+  "COMP231-Lab-3": {
+    "Instructor": "Abdallah Haidar Mohammad Karakra",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "COMP233-Lecture-1": {
+    "Instructor": "Radi A. R. Jarrar",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "COMP233-Lecture-2": {
+    "Instructor": "Radi A. R. Jarrar",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "COMP233-Lecture-3": {
+    "Instructor": "Radi A. R. Jarrar",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "COMP311-Lecture-1": {
+    "Instructor": "Refat T. A. Othman",
+    "T": "08:00 - 10:40",
+    "R": "08:00 - 10:40"
+  },
+  "COMP311-Lecture-2": {
+    "Instructor": "Refat T. A. Othman",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "COMP3300-Lecture-1": {
+    "Instructor": "Sobhi Ghassen Sobhi Ahmed"
+  },
+  "COMP3300-Lecture-2": {
+    "Instructor": "Sobhi Ghassen Sobhi Ahmed"
+  },
+  "COMP3300-Lecture-3": {
+    "Instructor": "Sobhi Ghassen Sobhi Ahmed"
+  },
+  "ENAR2371-Lecture-1": {
+    "Instructor": "Manal Ahmad Mohammad Al Bishawi",
+    "M": "09:00 - 10:40",
+    "W": "09:00 - 10:40"
+  },
+  "ENAR2371-Lab-1": {
+    "Instructor": "Manal Ahmad Mohammad Al Bishawi",
+    "M": "12:00 - 14:40",
+    "W": "12:00 - 14:40"
+  },
+  "ENAR4300-Lecture-1": {
+    "Instructor": "Manal Ahmad Mohammad Al Bishawi"
+  },
+  "ENAR4300-Lecture-2": {
+    "Instructor": "Manal Ahmad Mohammad Al Bishawi"
+  },
+  "ENAR4300-Lecture-3": {
+    "Instructor": "Salem Abdul Latif Abdul Karim Thawaba"
+  },
+  "ENCE216-Lecture-1": {
+    "Instructor": "Saheem Kamel Abdullah Murshid",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "ENCE216-Lecture-2": {
+    "Instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "ENCE223-Lecture-1": {
+    "Instructor": "Saheem Kamel Abdullah Murshid",
+    "M": "09:20 - 10:10",
+    "T": "09:20 - 10:10",
+    "W": "09:20 - 10:10",
+    "R": "09:20 - 10:10"
+  },
+  "ENCE232-Lecture-1": {
+    "Instructor": "Nizar Abdul-Hamid Yousef Assi",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ENCE232-Lecture-2": {
+    "Instructor": "Nizar Abdul-Hamid Yousef Assi",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENCE232-Lecture-3": {
+    "Instructor": "Khalil Mosab Khalil Qatu",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENCE233-Lecture-1": {
+    "Instructor": "Nizar Abdul-Hamid Yousef Assi",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ENCE2351-Lecture-1": {
+    "Instructor": "Khalil Mosab Khalil Qatu",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ENCE317-Lecture-1": {
+    "Instructor": "Khaled Adeeb Zaki Abaza",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "ENCE317-Lecture-2": {
+    "Instructor": "Khaled Adeeb Zaki Abaza",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "ENCE327-Lecture-1": {
+    "Instructor": "Khaled Adeeb Zaki Abaza",
+    "M": "11:00 - 11:50",
+    "T": "11:00 - 11:50",
+    "W": "11:00 - 11:50",
+    "R": "11:00 - 11:50"
+  },
+  "ENCE3361-Lecture-1": {
+    "Instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENCE4300-Lecture-1": {
+    "Instructor": "Jamal-Aldin Hisham Mohammad Zalatimo"
+  },
+  "ENCE4300-Lecture-2": {
+    "Instructor": "Omar Rabah Raghib Zimmo"
+  },
+  "ENCE4300-Lecture-3": {
+    "Instructor": "Saheem Kamel Abdullah Murshid"
+  },
+  "ENCE431-Lecture-1": {
+    "Instructor": "Farouq Mohammad Yousef Kittani",
+    "M": "08:00 - 10:40",
+    "W": "08:00 - 10:40"
+  },
+  "ENCE530-Lecture-1": {
+    "Instructor": "Abdullah Said Naji Herzallah"
+  },
+  "ENCE5381-Lecture-1": {
+    "Instructor": "Jamal Ali Abdel Fattah Numan",
+    "M": "14:00 - 15:40",
+    "W": "14:00 - 15:40"
+  },
+  "ENCE5381-Lab-1": {
+    "Instructor": "Jamal Ali Abdel Fattah Numan",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "ENCE860-Lecture-1": {
+    "Instructor": "Ghada Jamil Husni Karaki"
+  },
+  "ENCE860-Lecture-2": {
+    "Instructor": "Abdul Naser Amin Ahed Arafat"
+  },
+  "ENCS2110-Lecture-1": {
+    "Instructor": "Jamal Othman Hosen Seyam",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "ENCS2110-Lecture-2": {
+    "Instructor": "Khader Shehadeh Nassar Mohammad",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "ENCS2110-Lecture-3": {
+    "Instructor": "Khader Shehadeh Nassar Mohammad",
+    "T": "08:00 - 10:40",
+    "R": "08:00 - 10:40"
+  },
+  "ENCS2110-Lecture-4": {
+    "Instructor": "Abdallatif S. A. Abuissa",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "ENCS2340-Lecture-1": {
+    "Instructor": "Aziz Mohammed Ahmad Qaroush",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENCS2340-Lecture-2": {
+    "Instructor": "Ayman Ali Mohammad Hroub",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ENCS2340-Lecture-3": {
+    "Instructor": "Ayman Ali Mohammad Hroub",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENCS2340-Lecture-4": {
+    "Instructor": "Bilal Jafar Hamed Karaki",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ENCS2380-Lecture-1": {
+    "Instructor": "Abualseoud Ahmad Abualseoud Hanani",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ENCS3130-Lecture-1": {
+    "Instructor": "Mohammad Khaleel Issa Jubran",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "ENCS3130-Lecture-2": {
+    "Instructor": "Aziz Mohammed Ahmad Qaroush",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "ENCS3130-Lecture-3": {
+    "Instructor": "Mohammad Khaleel Issa Jubran",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "ENCS3310-Lecture-1": {
+    "Instructor": "Abdallatif S. A. Abuissa",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ENCS3310-Lecture-2": {
+    "Instructor": "Abdallatif S. A. Abuissa",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENCS3320-Lecture-1": {
+    "Instructor": "Mohammed H. S. Helal",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENCS3320-Lecture-2": {
+    "Instructor": "Mohammed H. S. Helal",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ENCS336-Lecture-1": {
+    "Instructor": "Abualseoud Ahmad Abualseoud Hanani",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENCS4101-Lecture-1": {
+    "Instructor": "Wasel Tahsin Ahmad Ghanem",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "ENCS411-Lecture-1": {
+    "Instructor": "Ayman Ali Mohammad Hroub",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "ENCS4110-Lecture-1": {
+    "Instructor": "Abualseoud Ahmad Abualseoud Hanani",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "ENCS4110-Lecture-2": {
+    "Instructor": "Jamal Othman Hosen Seyam",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "ENCS412-Lecture-1": {
+    "Instructor": "Wasel Tahsin Ahmad Ghanem",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "ENCS4130-Lecture-1": {
+    "Instructor": "Ismail Mohammad Mousa Khater",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "ENCS4130-Lecture-2": {
+    "Instructor": "Mohammed H. S. Helal",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "ENCS4130-Lecture-3": {
+    "Instructor": "Ismail Mohammad Mousa Khater",
+    "M": "08:00 - 10:40",
+    "W": "08:00 - 10:40"
+  },
+  "ENCS4130-Lecture-4": {
+    "Instructor": "Ismail Mohammad Mousa Khater",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "ENCS4300-Lecture-1": {
+    "Instructor": "Mohammed Sami Abdul Karim Hussein"
+  },
+  "ENCS4300-Lecture-2": {
+    "Instructor": "Mohammed Sami Abdul Karim Hussein"
+  },
+  "ENCS4300-Lecture-3": {
+    "Instructor": "Ahmad Saleh Ibrahim Alsadeh"
+  },
+  "ENCS4300-Lecture-4": {
+    "Instructor": "Mohammed Sami Abdul Karim Hussein"
+  },
+  "ENCS4320-Lecture-1": {
+    "Instructor": "Ahmad Saleh Ibrahim Alsadeh",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "ENCS514-Lecture-1": {
+    "Instructor": "Aziz Mohammed Ahmad Qaroush",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "ENEE2101-Lecture-1": {
+    "Instructor": "Hakam Suleiman Nu'Man Shehadeh",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "ENEE2103-Lecture-1": {
+    "Instructor": "Ali Hasan Moath Abdo",
+    "M": "08:00 - 10:40",
+    "W": "08:00 - 10:40"
+  },
+  "ENEE2103-Lecture-2": {
+    "Instructor": "Ali Hasan Moath Abdo",
+    "T": "08:00 - 10:40",
+    "R": "08:00 - 10:40"
+  },
+  "ENEE2304-Lecture-1": {
+    "Instructor": "Mahran S. R. Quraan",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENEE2307-Lecture-1": {
+    "Instructor": "Wael A. M. Hashlamoun",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENEE2307-Lecture-2": {
+    "Instructor": "Mohammad Khaleel Issa Jubran",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ENEE2311-Lecture-1": {
+    "Instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENEE2312-Lecture-1": {
+    "Instructor": "Qadri A. A. Mayyala",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENEE2312-Lecture-2": {
+    "Instructor": "Ashraf Sulieman Awad Al-Rimawi",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ENEE2312-Lecture-3": {
+    "Instructor": "Ashraf Sulieman Awad Al-Rimawi",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ENEE2313-Lecture-1": {
+    "Instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENEE2360-Lecture-1": {
+    "Instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENEE2360-Lecture-2": {
+    "Instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENEE3103-Lecture-1": {
+    "Instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "ENEE3302-Lecture-1": {
+    "Instructor": "Hakam Suleiman Nu'Man Shehadeh",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ENEE3309-Lecture-1": {
+    "Instructor": "Wael A. M. Hashlamoun",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENEE4102-Lecture-1": {
+    "Instructor": "Ali Hasan Moath Abdo",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "ENEE4104-Lecture-1": {
+    "Instructor": "Mahran S. R. Quraan",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "ENEE4113-Lecture-1": {
+    "Instructor": "Ashraf Sulieman Awad Al-Rimawi",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "ENEE4113-Lecture-2": {
+    "Instructor": "Wasel Tahsin Ahmad Ghanem",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "ENEE4113-Lecture-3": {
+    "Instructor": "Qadri A. A. Mayyala",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "ENEE4300-Lecture-1": {
+    "Instructor": "Ahmad Saleh Ibrahim Alsadeh"
+  },
+  "ENEE4302-Lecture-1": {
+    "Instructor": "Jamal Othman Hosen Seyam",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ENEE4401-Lecture-1": {
+    "Instructor": "Ali Hasan Moath Abdo",
+    "M": "12:15 - 13:55",
+    "T": "12:15 - 13:55",
+    "W": "12:15 - 13:55",
+    "R": "12:15 - 13:55"
+  },
+  "ENMC4300-Lecture-1": {
+    "Instructor": "Rashad Irsan Hassan Mustafa"
+  },
+  "ENMC5310-Lecture-1": {
+    "Instructor": "Mamon Mohammad Abedalqader Horoub",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENME120-Lecture-1": {
+    "Instructor": "Ibrahim Mohammad Othman Hammad",
+    "M": "10:00 - 10:50",
+    "W": "10:00 - 10:50"
+  },
+  "ENME120-Lab-1": {
+    "Instructor": "Ibrahim Mohammad Othman Hammad",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "ENME121-Lecture-1": {
+    "Instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+    "T": "09:20 - 10:10",
+    "R": "09:20 - 10:10"
+  },
+  "ENME121-Lab-1": {
+    "Instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "ENME232-Lecture-1": {
+    "Instructor": "Nidal Mohammad Abdel Qader Farhat",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENME232-Lecture-2": {
+    "Instructor": "Mamon Mohammad Abedalqader Horoub",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ENME3100-Lecture-1": {
+    "Instructor": "Ibrahim Mohammad Othman Hammad"
+  },
+  "ENME312-Lecture-1": {
+    "Instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "ENME312-Lecture-2": {
+    "Instructor": "Afif A. M. Akel",
+    "M": "08:00 - 10:40",
+    "W": "08:00 - 10:40"
+  },
+  "ENME332-Lecture-1": {
+    "Instructor": "Nidal Mohammad Abdel Qader Farhat",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ENME333-Lecture-1": {
+    "Instructor": "Afif A. M. Akel",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENME335-Lecture-1": {
+    "Instructor": "Mohannad Abd Latif Saleh Tahboub",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ENME4300-Lecture-1": {
+    "Instructor": "Ibrahim Mohammad Othman Hammad"
+  },
+  "ENME5312-Lecture-1": {
+    "Instructor": "Ibrahim Mohammad Othman Hammad",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENPL4300-Lecture-1": {
+    "Instructor": "Salem Abdul Latif Abdul Karim Thawaba"
+  },
+  "JMEE860-Lecture-1": {
+    "Instructor": "Mahran S. R. Quraan, Muhammad Sharif Mustafa Abu-Khaizaran"
+  },
+  "JMEE860-Lecture-2": {
+    "Instructor": "Mahran S. R. Quraan"
+  },
+  "SWEN860-Lecture-1": {
+    "Instructor": "Mustafa Irsan Abdallah Jarrar"
+  },
+  "SWEN860-Lecture-2": {
+    "Instructor": "Samer Mas'Oud Ahmad Zein"
+  },
+  "SWEN860-Lecture-3": {
+    "Instructor": "Samer Mas'Oud Ahmad Zein"
+  },
+  "ARAB136-Lecture-1": {
+    "Instructor": "Mousa Mitry Ibraheem Khoury",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ARAB136-Lecture-2": {
+    "Instructor": "Mousa Mitry Ibraheem Khoury",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ARAB136-Lecture-3": {
+    "Instructor": "Omar Mahmoud Ahmad Halahlih",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "ARAB136-Lecture-4": {
+    "Instructor": "Khitam Sae'D Abdoullah Suliman",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ARAB2320-Lecture-1": {
+    "Instructor": "Nasralla Mohammad Ahmad Alshaier",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ARAB2361-Lecture-1": {
+    "Instructor": "Thabit Muhammad Khalil Hamed",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "ARAB2390-Lecture-1": {
+    "Instructor": "Thabit Muhammad Khalil Hamed",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ARAB331-Lecture-1": {
+    "Instructor": "Nasralla Mohammad Ahmad Alshaier",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ARAB331-Lecture-2": {
+    "Instructor": "Mashhour Mousa Mashhour Mshahreh",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ARAB331-Lecture-3": {
+    "Instructor": "Mashhour Mousa Mashhour Mshahreh",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "ARAB332-Lecture-1": {
+    "Instructor": "Mashhour Mousa Mashhour Mshahreh",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ARAB636-Lecture-1": {
+    "Instructor": "Ibrahim Nimer Hassan Mousa",
+    "M": "14:15 - 16:55",
+    "W": "14:15 - 16:55"
+  },
+  "ARAB860-Lecture-1": {
+    "Instructor": "Omar Mahmoud Ahmad Halahlih"
+  },
+  "ARAB860-Lecture-2": {
+    "Instructor": "Mahdi Asad Saleh Arar"
+  },
+  "ARAB860-Lecture-3": {
+    "Instructor": "Mahdi Asad Saleh Arar"
+  },
+  "ARCH367-Lecture-1": {
+    "Instructor": "Hamed Joma'A Mohammad Salem"
+  },
+  "ARSK131-Lecture-1": {
+    "Instructor": "Thabit Muhammad Khalil Hamed",
+    "M": "08:00 - 10:40",
+    "T": "08:00 - 10:40",
+    "W": "08:00 - 10:40",
+    "R": "08:00 - 10:40"
+  },
+  "ARSK132-Lecture-1": {
+    "Instructor": "Sami Ehmedan Rasheed Sha\"Th",
+    "M": "08:00 - 10:40",
+    "T": "08:00 - 10:40",
+    "W": "08:00 - 10:40",
+    "R": "08:00 - 10:40"
+  },
+  "ARSK134-Lecture-1": {
+    "Instructor": "Sami Ehmedan Rasheed Sha\"Th",
+    "M": "11:00 - 13:40",
+    "T": "11:00 - 13:40",
+    "W": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "ARSK233-Lecture-1": {
+    "Instructor": "unknown",
+    "M": "11:00 - 13:40",
+    "T": "11:00 - 13:40",
+    "W": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "CPSY860-Lecture-1": {
+    "Instructor": "Bihan Ahmad Taher Al_Qaimari"
+  },
+  "CPSY860-Lecture-2": {
+    "Instructor": "Laura Jiries Odeh Khoury"
+  },
+  "CPSY860-Lecture-3": {
+    "Instructor": "Laura Jiries Odeh Khoury"
+  },
+  "CULS331-Lecture-1": {
+    "Instructor": "Rana Adeeb Abdullah Kherawish",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "CULS331-Lecture-2": {
+    "Instructor": "Rana Adeeb Abdullah Kherawish",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "CULS331-Lecture-3": {
+    "Instructor": "Sonia Fathi Sai'D Nimer",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "CULS331-Lecture-4": {
+    "Instructor": "Rana Adeeb Abdullah Kherawish",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "CULS331-Lecture-5": {
+    "Instructor": "Sonia Fathi Sai'D Nimer",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "CULS331-Lecture-6": {
+    "Instructor": "Ashraf Othman Mohammad Bader",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "CULS331-Lecture-7": {
+    "Instructor": "Ashraf Othman Mohammad Bader",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "CULS331-Lecture-8": {
+    "Instructor": "Emad Reffaat Mohammad Beshtawi",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "CULS331-Lecture-9": {
+    "Instructor": "Ali Mohammad Tawfiq Mousa",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "CULS331-Lecture-10": {
+    "Instructor": "Emad Reffaat Mohammad Beshtawi",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "CULS331-Lecture-11": {
+    "Instructor": "Ali Mohammad Tawfiq Mousa",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "CULS331-Lecture-12": {
+    "Instructor": "Sonia Fathi Sai'D Nimer",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "CULS332-Lecture-1": {
+    "Instructor": "Huda Ribhi Hassan Awad",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "CULS332-Lecture-2": {
+    "Instructor": "Huda Ribhi Hassan Awad",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "CULS332-Lecture-3": {
+    "Instructor": "Raed Taleb Bader Bader",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "CULS332-Lecture-4": {
+    "Instructor": "Raed Taleb Bader Bader",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "CULS332-Lecture-5": {
+    "Instructor": "Emad Reffaat Mohammad Beshtawi",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "CULS332-Lecture-6": {
+    "Instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "CULS332-Lecture-7": {
+    "Instructor": "Raed Taleb Bader Bader",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "CULS332-Lecture-8": {
+    "Instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "CULS332-Lecture-9": {
+    "Instructor": "Sa'D Fathi Said Nimer",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "CULS332-Lecture-10": {
+    "Instructor": "Huda Ribhi Hassan Awad",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "CULS332-Lecture-11": {
+    "Instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ENGC1002-Lecture-1": {
+    "Instructor": "Mohammed S. K. Zaid",
+    "M": "09:00 - 09:50",
+    "T": "09:00 - 09:50",
+    "W": "09:00 - 09:50",
+    "R": "09:00 - 09:50"
+  },
+  "ENGC1201-Lecture-1": {
+    "Instructor": "Rabah Fahed Ahmad 'A.Ahmad'",
+    "M": "09:00 - 09:50",
+    "T": "09:00 - 09:50",
+    "W": "09:00 - 09:50",
+    "R": "09:00 - 09:50"
+  },
+  "ENGC1201-Lecture-2": {
+    "Instructor": "Rabah Fahed Ahmad 'A.Ahmad'",
+    "M": "10:00 - 10:50",
+    "T": "10:00 - 10:50",
+    "W": "10:00 - 10:50",
+    "R": "10:00 - 10:50"
+  },
+  "ENGC1201-Lecture-3": {
+    "Instructor": "Othman Diab Mosa Amer",
+    "M": "11:00 - 11:50",
+    "T": "11:00 - 11:50",
+    "W": "11:00 - 11:50",
+    "R": "11:00 - 11:50"
+  },
+  "ENGC1201-Lecture-4": {
+    "Instructor": "Majdi Jehad Ahmad Abu_Zahra",
+    "M": "08:00 - 08:50",
+    "T": "08:00 - 08:50",
+    "W": "08:00 - 08:50",
+    "R": "08:00 - 08:50"
+  },
+  "ENGC1201-Lecture-5": {
+    "Instructor": "Othman Diab Mosa Amer",
+    "M": "13:00 - 13:50",
+    "T": "13:00 - 13:50",
+    "W": "13:00 - 13:50",
+    "R": "13:00 - 13:50"
+  },
+  "ENGC1201-Lecture-6": {
+    "Instructor": "Rabah Fahed Ahmad 'A.Ahmad'",
+    "M": "12:20 - 13:10",
+    "T": "12:20 - 13:10",
+    "W": "12:20 - 13:10",
+    "R": "12:20 - 13:10"
+  },
+  "ENGC1201-Lecture-7": {
+    "Instructor": "Ahmad Shukri Ahmad Shayeb",
+    "M": "11:00 - 11:50",
+    "T": "11:00 - 11:50",
+    "W": "11:00 - 11:50",
+    "R": "11:00 - 11:50"
+  },
+  "ENGC1201-Lecture-8": {
+    "Instructor": "Ahmad A. M. Ayyoub",
+    "M": "11:00 - 11:50",
+    "T": "11:00 - 11:50",
+    "W": "11:00 - 11:50",
+    "R": "11:00 - 11:50"
+  },
+  "ENGC1202-Lecture-1": {
+    "Instructor": "Othman Diab Mosa Amer",
+    "M": "10:00 - 10:50",
+    "T": "10:00 - 10:50",
+    "W": "10:00 - 10:50",
+    "R": "10:00 - 10:50"
+  },
+  "ENGC1202-Lecture-2": {
+    "Instructor": "Othman Diab Mosa Amer",
+    "M": "09:00 - 09:50",
+    "T": "09:00 - 09:50",
+    "W": "09:00 - 09:50",
+    "R": "09:00 - 09:50"
+  },
+  "ENGC1202-Lecture-3": {
+    "Instructor": "Ahmad A. M. Ayyoub",
+    "M": "10:00 - 10:50",
+    "T": "10:00 - 10:50",
+    "W": "10:00 - 10:50",
+    "R": "10:00 - 10:50"
+  },
+  "ENGC2201-Lecture-1": {
+    "Instructor": "Mohammed S. K. Zaid",
+    "M": "11:00 - 11:50",
+    "T": "11:00 - 11:50",
+    "W": "11:00 - 11:50",
+    "R": "11:00 - 11:50"
+  },
+  "ENGC2201-Lecture-2": {
+    "Instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+    "M": "08:00 - 08:50",
+    "T": "08:00 - 08:50",
+    "W": "08:00 - 08:50",
+    "R": "08:00 - 08:50"
+  },
+  "ENGC2201-Lecture-3": {
+    "Instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+    "M": "11:00 - 11:50",
+    "T": "11:00 - 11:50",
+    "W": "11:00 - 11:50",
+    "R": "11:00 - 11:50"
+  },
+  "ENGC2201-Lecture-4": {
+    "Instructor": "Ahmad Shukri Ahmad Shayeb",
+    "M": "13:00 - 13:50",
+    "T": "13:00 - 13:50",
+    "W": "13:00 - 13:50",
+    "R": "13:00 - 13:50"
+  },
+  "ENGC2201-Lecture-5": {
+    "Instructor": "Ahmad Shukri Ahmad Shayeb",
+    "M": "14:00 - 14:50",
+    "T": "14:00 - 14:50",
+    "W": "14:00 - 14:50",
+    "R": "14:00 - 14:50"
+  },
+  "ENGC2201-Lecture-6": {
+    "Instructor": "Ruba Abdul_Latif Mustafa Khalaf",
+    "M": "13:00 - 13:50",
+    "T": "13:00 - 13:50",
+    "W": "13:00 - 13:50",
+    "R": "13:00 - 13:50"
+  },
+  "ENGC2201-Lecture-7": {
+    "Instructor": "Majdi Jehad Ahmad Abu_Zahra",
+    "M": "10:00 - 10:50",
+    "T": "10:00 - 10:50",
+    "W": "10:00 - 10:50",
+    "R": "10:00 - 10:50"
+  },
+  "ENGC2201-Lecture-8": {
+    "Instructor": "Balquis Khamees Isaa Shalabi",
+    "M": "12:00 - 12:50",
+    "T": "12:00 - 12:50",
+    "W": "12:00 - 12:50",
+    "R": "12:00 - 12:50"
+  },
+  "ENGC2201-Lecture-9": {
+    "Instructor": "Ruba Abdul_Latif Mustafa Khalaf",
+    "M": "09:00 - 09:50",
+    "T": "09:00 - 09:50",
+    "W": "09:00 - 09:50",
+    "R": "09:00 - 09:50"
+  },
+  "ENGC2201-Lecture-10": {
+    "Instructor": "Balquis Khamees Isaa Shalabi",
+    "M": "10:00 - 10:50",
+    "T": "10:00 - 10:50",
+    "W": "10:00 - 10:50",
+    "R": "10:00 - 10:50"
+  },
+  "ENGC2202-Lecture-1": {
+    "Instructor": "Balquis Khamees Isaa Shalabi",
+    "M": "09:00 - 09:50",
+    "T": "09:00 - 09:50",
+    "W": "09:00 - 09:50",
+    "R": "09:00 - 09:50"
+  },
+  "ENGC2202-Lecture-2": {
+    "Instructor": "Samir Muhammad Abdulla Rammal",
+    "M": "13:00 - 13:50",
+    "T": "13:00 - 13:50",
+    "W": "13:00 - 13:50",
+    "R": "13:00 - 13:50"
+  },
+  "ENGC2202-Lecture-3": {
+    "Instructor": "Fatima Yacoub Jum'Ah Qarash",
+    "M": "10:00 - 10:50",
+    "T": "10:00 - 10:50",
+    "W": "10:00 - 10:50",
+    "R": "10:00 - 10:50"
+  },
+  "ENGC2202-Lecture-4": {
+    "Instructor": "Samir Muhammad Abdulla Rammal",
+    "M": "11:00 - 11:50",
+    "T": "11:00 - 11:50",
+    "W": "11:00 - 11:50",
+    "R": "11:00 - 11:50"
+  },
+  "ENGC2202-Lecture-5": {
+    "Instructor": "Majdi Jehad Ahmad Abu_Zahra",
+    "M": "13:00 - 13:50",
+    "T": "13:00 - 13:50",
+    "W": "13:00 - 13:50",
+    "R": "13:00 - 13:50"
+  },
+  "ENGC2202-Lecture-6": {
+    "Instructor": "Ahmad Shukri Ahmad Shayeb",
+    "M": "08:00 - 08:50",
+    "T": "08:00 - 08:50",
+    "W": "08:00 - 08:50",
+    "R": "08:00 - 08:50"
+  },
+  "ENGC2203-Lecture-1": {
+    "Instructor": "Adnan Ibrahim Abdallah Abuayyash",
+    "M": "11:00 - 11:50",
+    "T": "11:00 - 11:50",
+    "W": "11:00 - 11:50",
+    "R": "11:00 - 11:50"
+  },
+  "ENGC2203-Lecture-2": {
+    "Instructor": "Adnan Ibrahim Abdallah Abuayyash",
+    "M": "13:00 - 13:50",
+    "T": "13:00 - 13:50",
+    "W": "13:00 - 13:50",
+    "R": "13:00 - 13:50"
+  },
+  "ENGC2204-Lecture-1": {
+    "Instructor": "Adnan Ibrahim Abdallah Abuayyash",
+    "M": "14:00 - 14:50",
+    "T": "14:00 - 14:50",
+    "W": "14:00 - 14:50",
+    "R": "14:00 - 14:50"
+  },
+  "ENGC233-Lecture-1": {
+    "Instructor": "Tina Yaser Kostandi Rafidi",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENGC2400-Lecture-1": {
+    "Instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+    "M": "12:00 - 13:40",
+    "T": "12:00 - 13:40",
+    "W": "12:00 - 13:40",
+    "R": "12:00 - 13:40"
+  },
+  "ENGC2400-Lecture-2": {
+    "Instructor": "Tina Yaser Kostandi Rafidi",
+    "M": "12:00 - 13:40",
+    "T": "12:00 - 13:40",
+    "W": "12:00 - 13:40",
+    "R": "12:00 - 13:40"
+  },
+  "ENGC2401-Lecture-1": {
+    "Instructor": "Fatima Yacoub Jum'Ah Qarash",
+    "M": "12:00 - 13:40",
+    "T": "12:00 - 13:40",
+    "W": "12:00 - 13:40",
+    "R": "12:00 - 13:40"
+  },
+  "ENGC2401-Lecture-2": {
+    "Instructor": "Ruba Abdul_Latif Mustafa Khalaf",
+    "M": "10:00 - 11:40",
+    "T": "10:00 - 11:40",
+    "W": "10:00 - 11:40",
+    "R": "10:00 - 11:40"
+  },
+  "ENGL235-Lecture-1": {
+    "Instructor": "Maen Hussam Abdlatife Saa",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENGL236-Lecture-1": {
+    "Instructor": "Maen Hussam Abdlatife Saa",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENGL236-Lecture-2": {
+    "Instructor": "Maen Hussam Abdlatife Saa",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "ENGL237-Lecture-1": {
+    "Instructor": "Wael Abed Lafi Abdeen",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENGL238-Lecture-1": {
+    "Instructor": "Laila K. I Shikaki",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ENGL238-Lecture-2": {
+    "Instructor": "Laila K. I Shikaki",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ENGL336-Lecture-1": {
+    "Instructor": "Wael Abed Lafi Abdeen",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ENGL336-Lecture-2": {
+    "Instructor": "Wael Abed Lafi Abdeen",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ENGL435-Lecture-1": {
+    "Instructor": "Lloyd Howard James Precious",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "GEOG210-Lecture-1": {
+    "Instructor": "Ahmad Hammad Yousef Abu Hammad",
+    "T": "09:00 - 10:40"
+  },
+  "GEOG230-Lecture-1": {
+    "Instructor": "Khalil Abdullah Mutawe' Amro",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "GEOG338-Lecture-1": {
+    "Instructor": "Ahmad Hammad Yousef Abu Hammad",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "HEBR331-Lecture-1": {
+    "Instructor": "Mahmud Mohammad Abdallah Abu Katish",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "HEBR331-Lecture-2": {
+    "Instructor": "Mahmud Mohammad Abdallah Abu Katish",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "HEBR331-Lecture-3": {
+    "Instructor": "Mahmud Mohammad Abdallah Abu Katish",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "HIST133-Lecture-1": {
+    "Instructor": "Amer Najeeb Mousa Barakat",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "HIST135-Lecture-1": {
+    "Instructor": "Amer Najeeb Mousa Barakat",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "HIST231-Lecture-1": {
+    "Instructor": "Musa Abdelmuti Isaa Sroor",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "MDJO335-Lecture-1": {
+    "Instructor": "Walid Omar Awad Shurafa",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "MDJO4120-Lecture-1": {
+    "Instructor": "Mohammed A. M. Abualrob"
+  },
+  "MDJO4120-Lecture-2": {
+    "Instructor": "Mohammed A. M. Abualrob"
+  },
+  "MDJO439-Lecture-1": {
+    "Instructor": "Saleh Badawi Audeh Allah Masharqeh",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "PASP332-Lecture-1": {
+    "Instructor": "Sa'D Fathi Said Nimer",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "PASP333-Lecture-1": {
+    "Instructor": "Sa'D Fathi Said Nimer",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "PHIL232-Lecture-1": {
+    "Instructor": "Jamal Mahmoud Yousef Daher",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "PHIL232-Lecture-2": {
+    "Instructor": "Jamal Mahmoud Yousef Daher",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "PHIL232-Lecture-3": {
+    "Instructor": "Jamal Mahmoud Yousef Daher",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "PSYC231-Lecture-1": {
+    "Instructor": "Maurice F. B. Backleh",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "PSYC330-Lecture-1": {
+    "Instructor": "Mohammad Omar Abdel Aziz Brighith",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "PSYC333-Lecture-1": {
+    "Instructor": "Louy George Abdallah Fawadleh",
+    "M": "15:20 - 16:30",
+    "T": "15:20 - 16:30",
+    "W": "15:20 - 16:30",
+    "R": "15:20 - 16:30"
+  },
+  "PSYC335-Lecture-1": {
+    "Instructor": "Mohammad Omar Abdel Aziz Brighith",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "PSYC431-Lecture-1": {
+    "Instructor": "Maurice F. B. Backleh",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "SOCI131-Lecture-1": {
+    "Instructor": "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "SOCI332-Lecture-1": {
+    "Instructor": "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "TRAN330-Lecture-1": {
+    "Instructor": "Mohammed S. K. Zaid",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "TRAN331-Lecture-1": {
+    "Instructor": "Majdi Jehad Ahmad Abu_Zahra",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "TRAN334-Lecture-1": {
+    "Instructor": "Saeb Diab Ali Samara Qawwas",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "TRAN334-Lecture-2": {
+    "Instructor": "Saeb Diab Ali Samara Qawwas",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "TRAN335-Lecture-1": {
+    "Instructor": "Samir Muhammad Abdulla Rammal",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "TRAN433-Lecture-2": {
+    "Instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "TRAN433-Lecture-3": {
+    "Instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ACCA6360-Lecture-1": {
+    "Instructor": "Yousef Mohammad Yousef Hassan",
+    "M": "15:20 - 18:00",
+    "W": "15:20 - 18:00"
+  },
+  "ACCA7320-Lecture-1": {
+    "Instructor": "Saher Mohammad Abdallah Aqel",
+    "T": "15:20 - 18:00",
+    "R": "15:20 - 18:00"
+  },
+  "ACCT130-Lecture-1": {
+    "Instructor": "Karim Sani Nasib Al-Bitar",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ACCT130-Lecture-2": {
+    "Instructor": "Bashar Shukri Hanna Al Qara'",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ACCT230-Lecture-1": {
+    "Instructor": "Karim Sani Nasib Al-Bitar",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ACCT230-Lecture-2": {
+    "Instructor": "Bashar Shukri Hanna Al Qara'",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ACCT331-Lecture-1": {
+    "Instructor": "Yousef Mohammad Yousef Hassan",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ACCT332-Lecture-1": {
+    "Instructor": "Jamal Fadel Daoud Fawadleh",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "ACCT3331-Lecture-1": {
+    "Instructor": "Lina Elias Bandaly Fawadleh",
+    "M": "15:20 - 16:30",
+    "T": "15:20 - 16:30",
+    "W": "15:20 - 16:30",
+    "R": "15:20 - 16:30"
+  },
+  "ACCT334-Lecture-1": {
+    "Instructor": "Zeyad Fawaz Fouzi Munawer",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ACCT335-Lecture-1": {
+    "Instructor": "Zeyad Fawaz Fouzi Munawer",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ACCT337-Lecture-1": {
+    "Instructor": "Saher Mohammad Abdallah Aqel",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ACCT437-Lecture-1": {
+    "Instructor": "Zeyad Fawaz Fouzi Munawer",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "BUSA130-Lecture-1": {
+    "Instructor": "Rania Yaser Qostande Jaber",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "BUSA130-Lecture-2": {
+    "Instructor": "Rania Yaser Qostande Jaber",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "BUSA230-Lecture-1": {
+    "Instructor": "Maisa Yacoub Naoum Burbar",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "BUSA230-Lecture-2": {
+    "Instructor": "Maisa Yacoub Naoum Burbar",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "BUSA232-Lecture-1": {
+    "Instructor": "Nojoud Subhi Shukri Habash",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "BUSA236-Lecture-1": {
+    "Instructor": "Arwa B. Y. Abed",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "BUSA238-Lecture-1": {
+    "Instructor": "Abdelrahman Naser Ali Hamarsha",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "BUSA238-Lecture-2": {
+    "Instructor": "Abdelrahman Naser Ali Hamarsha",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "BUSA3301-Lecture-1": {
+    "Instructor": "Majd Mohammad Mahmoud Quzmar",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "BUSA332-Lecture-1": {
+    "Instructor": "Nojoud Subhi Shukri Habash",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "BUSA3371-Lecture-1": {
+    "Instructor": "Mohammad Sati Mohammad Qaki",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "BUSA3371-Lecture-2": {
+    "Instructor": "Mohammad Sati Mohammad Qaki",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "BUSA433-Lecture-1": {
+    "Instructor": "Nojoud Subhi Shukri Habash",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "BUSA632-Lecture-1": {
+    "Instructor": "Murad Hasan Kamel Harasheh",
+    "M": "15:20 - 18:00",
+    "W": "15:20 - 18:00"
+  },
+  "BUSA633-Lecture-1": {
+    "Instructor": "Amal Wasef Mousa Nazzal",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "BUSA638-Lecture-1": {
+    "Instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "BUSA860-Lecture-1": {
+    "Instructor": "Yousef Mohammad Yousef Hassan"
+  },
+  "ECON131-Lecture-1": {
+    "Instructor": "Mohammad Nassar Ahmad Amreyeh",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "ECON132-Lecture-1": {
+    "Instructor": "Fathi Sa'D Husain Srouji",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "ECON235-Lecture-1": {
+    "Instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "ECON235-Lecture-2": {
+    "Instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ECON235-Lecture-3": {
+    "Instructor": "Mahmoud Othman Yousef Khaseeb",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ECON235-Lecture-4": {
+    "Instructor": "Najibeh Mohammad Saleh Morar",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ECON235-Lecture-5": {
+    "Instructor": "Najibeh Mohammad Saleh Morar",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ECON3311-Lecture-1": {
+    "Instructor": "Mohammad Nassar Ahmad Amreyeh",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "ECON3321-Lecture-1": {
+    "Instructor": "Mohammad Nassar Ahmad Amreyeh",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ECON338-Lecture-1": {
+    "Instructor": "Fathi Sa'D Husain Srouji",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "ECON739-Lecture-1": {
+    "Instructor": "Mohanad Oudah Mohammed Ismael",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "ECON860-Lecture-1": {
+    "Instructor": "Adel Said Fares Zagha"
+  },
+  "ECON860-Lecture-2": {
+    "Instructor": "Yousef Suleiman Yousef Daoud"
+  },
+  "ECON860-Lecture-3": {
+    "Instructor": "Mohanad Oudah Mohammed Ismael"
+  },
+  "FINN1300-Lecture-1": {
+    "Instructor": "Seri Mohammad Jamil Khalil Ghanem",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "FINN1300-Lecture-2": {
+    "Instructor": "Muniece Abdelrahman Ameen Alfar",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "FINN2300-Lecture-1": {
+    "Instructor": "Jawana Abed Al-Hadi Odeh Awwad",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "FINN2300-Lecture-2": {
+    "Instructor": "Seri Mohammad Jamil Khalil Ghanem",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "FINN2300-Lecture-3": {
+    "Instructor": "Fairouz Sa'Eed Mouhamed Darwish",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "FINN233-Lecture-1": {
+    "Instructor": "Sarah H. E. Alsaed",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "FINN234-Lecture-1": {
+    "Instructor": "Alaa Mohammad Fares Hamad",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "FINN3302-Lecture-1": {
+    "Instructor": "Muniece Abdelrahman Ameen Alfar",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "FINN3302-Lecture-2": {
+    "Instructor": "Muniece Abdelrahman Ameen Alfar",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "FINN338-Lecture-1": {
+    "Instructor": "Jawana Abed Al-Hadi Odeh Awwad",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "FINN338-Lecture-2": {
+    "Instructor": "Sarah H. E. Alsaed",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "MKET130-Lecture-1": {
+    "Instructor": "Suzan Jamal Mousa Shkukani",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "MKET230-Lecture-1": {
+    "Instructor": "Suzan Jamal Mousa Shkukani",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "MKET332-Lecture-1": {
+    "Instructor": "Harbi Ibrahim Mustafa Hasan",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "MKET337-Lecture-1": {
+    "Instructor": "Mohammad Sati Mohammad Qaki",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "MSCM6330-Lecture-1": {
+    "Instructor": "Amal Wasef Mousa Nazzal"
+  },
+  "ASDS860-Lecture-1": {
+    "Instructor": "Hassan Mohmmed Odeh Abu Hassan"
+  },
+  "COMP9303-Lecture-1": {
+    "Instructor": "Adel Abdul Mughani Abdul Ghani Taweel, Samer Mas'Oud Ahmad Zein"
+  },
+  "COMP9303-Lecture-2": {
+    "Instructor": "Adel Abdul Mughani Abdul Ghani Taweel"
+  },
+  "COMP9303-Lecture-3": {
+    "Instructor": "Mustafa Irsan Abdallah Jarrar, Mohammed A. T. Khalilia"
+  },
+  "COMP9303-Lecture-4": {
+    "Instructor": "Mustafa Irsan Abdallah Jarrar"
+  },
+  "COMP9303-Lecture-5": {
+    "Instructor": "Mustafa Irsan Abdallah Jarrar, Mohammed A. T. Khalilia"
+  },
+  "COMP9303-Lecture-6": {
+    "Instructor": "Mustafa Irsan Abdallah Jarrar, Mohammed A. T. Khalilia"
+  },
+  "COMP9303-Lecture-7": {
+    "Instructor": "Adel Abdul Mughani Abdul Ghani Taweel"
+  },
+  "HLTH723-Lecture-1": {
+    "Instructor": "Maysaa Yousef Khaled Nemer",
+    "W": "14:00 - 15:40"
+  },
+  "ISST860-Lecture-1": {
+    "Instructor": "Munir Kamal Hani Fakher Eldin"
+  },
+  "ISST860-Lecture-2": {
+    "Instructor": "Ala Mahmoud Younis Alazzeh"
+  },
+  "PHSS9090-Lecture-1": {
+    "Instructor": "Reema Eva Hamame"
+  },
+  "PHSS9990-Lecture-1": {
+    "Instructor": "Reema Eva Hamame"
+  },
+  "WEEN860-Lecture-1": {
+    "Instructor": "Nidal Jawdat Masoud Mahmoud"
+  },
+  "WEEN860-Lecture-2": {
+    "Instructor": "Nidal Jawdat Masoud Mahmoud"
+  },
+  "WEEN860-Lecture-3": {
+    "Instructor": "Rashed M. Y. Al-Sa'Ed"
+  },
+  "BIOC331-Lecture-1": {
+    "Instructor": "Johnny Butros Hanna Stiban",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "BIOL111-Lecture-1": {
+    "Instructor": "Mahmoud Abdul-Rahman Husein Srour",
+    "T": "08:00 - 10:40",
+    "R": "08:00 - 10:40"
+  },
+  "BIOL111-Lecture-2": {
+    "Instructor": "Mahmoud Abdul-Rahman Husein Srour",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "BIOL131-Lecture-1": {
+    "Instructor": "Abdallah Taha Suleiman Abu Taha",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "CHEM112-Lecture-1": {
+    "Instructor": "Diab T. D. Qadah",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "CHEM132-Lecture-1": {
+    "Instructor": "Imtiaz Mohammad Darwish Darwish",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "CHEM143-Lecture-1": {
+    "Instructor": "Mohammed H. M. Aljabari",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "CHEM143-Lab-1": {
+    "Instructor": "Diab T. D. Qadah",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "CHEM143-Lab-2": {
+    "Instructor": "Mohammed H. M. Aljabari",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "CHEM221-Lecture-1": {
+    "Instructor": "Ghassan Awad Ahmad Albarghouti",
+    "T": "11:00 - 11:50",
+    "R": "11:00 - 11:50"
+  },
+  "CHEM221-Lab-1": {
+    "Instructor": "Ghassan Awad Ahmad Albarghouti",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "CHEM221-Lab-2": {
+    "Instructor": "Adi Abdul Latif Yousef Qamhieh",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "CHEM230-Lecture-1": {
+    "Instructor": "Ghassan Awad Ahmad Albarghouti",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "CHEM234-Lecture-1": {
+    "Instructor": "Saleh Mohammad Sulaiman Sulaiman",
+    "M": "10:00 - 11:40",
+    "W": "10:00 - 11:40"
+  },
+  "CHEM234-Lab-1": {
+    "Instructor": "Imtiaz Mohammad Darwish Darwish",
+    "M": "13:00 - 16:30",
+    "W": "13:00 - 16:30"
+  },
+  "CHEM234-Lab-2": {
+    "Instructor": "Saleh Mohammad Sulaiman Sulaiman",
+    "T": "08:00 - 11:30",
+    "R": "08:00 - 11:30"
+  },
+  "CHEM234-Lab-3": {
+    "Instructor": "Adi Abdul Latif Yousef Qamhieh",
+    "T": "13:00 - 16:30",
+    "R": "13:00 - 16:30"
+  },
+  "CHEM438-Lecture-1": {
+    "Instructor": "Imtiaz Mohammad Darwish Darwish, Saleh Mohammad Sulaiman Sulaiman",
+    "M": "12:00 - 13:10",
+    "T": "12:00 - 13:10",
+    "W": "12:00 - 13:10",
+    "R": "12:00 - 13:10"
+  },
+  "CHEM860-Lecture-1": {
+    "Instructor": "Ghassan Awad Ahmad Albarghouti"
+  },
+  "GENS131-Lecture-1": {
+    "Instructor": "Munther Hikmat Mohummad Metani",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "GENS220-Lecture-1": {
+    "Instructor": "Ademar Deib Mohammad Ezzughayyar",
+    "M": "10:00 - 10:50",
+    "T": "10:00 - 10:50",
+    "W": "10:00 - 10:50",
+    "R": "10:00 - 10:50"
+  },
+  "MATH1321-Lecture-1": {
+    "Instructor": "Farah Gh. S. Omar",
+    "M": "10:30 - 12:10",
+    "W": "10:30 - 12:10"
+  },
+  "Discussion-Discussion-1": {
+    "Instructor": "Abdalaziz A. A. Shawabka",
+    "M": "08:00 - 08:50",
+    "W": "08:00 - 08:50",
+    "T": "09:20 - 10:10",
+    "R": "09:20 - 10:10"
+  },
+  "Discussion-Discussion-2": {
+    "Instructor": "Abdalaziz A. A. Shawabka",
+    "T": "10:00 - 10:50",
+    "R": "10:00 - 10:50",
+    "M": "09:20 - 10:10",
+    "W": "09:20 - 10:10"
+  },
+  "Discussion-Discussion-3": {
+    "Instructor": "Rula Imad Al-Din Said Bakeer",
+    "T": "12:20 - 13:10",
+    "R": "12:20 - 13:10",
+    "M": "09:00 - 09:50",
+    "W": "09:00 - 09:50"
+  },
+  "MATH1351-Lecture-1": {
+    "Instructor": "Ayah M. M. Sharsheer",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "MATH1411-Lecture-1": {
+    "Instructor": "Muna Khaled Khaleel Abu Alhalawa",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "MATH1431-Lecture-1": {
+    "Instructor": "Rasha Mohammad Amin Shadid",
+    "M": "08:00 - 09:40",
+    "T": "08:00 - 09:40",
+    "W": "08:00 - 09:40",
+    "R": "08:00 - 09:40"
+  },
+  "MATH2311-Lecture-1": {
+    "Instructor": "Ala Ata Abdelhady Talahmeh",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "MATH234-Lecture-1": {
+    "Instructor": "Mohammad Ali Deib Saleh",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "MATH234-Lecture-2": {
+    "Instructor": "Ala Ata Abdelhady Talahmeh",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "MATH234-Lecture-3": {
+    "Instructor": "Mohammad Ali Deib Saleh",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "MATH234-Lecture-4": {
+    "Instructor": "Ala Ata Abdelhady Talahmeh",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "MATH2351-Lecture-1": {
+    "Instructor": "Maher Mohammad Abdallah Abdallatif",
+    "T": "09:00 - 10:40",
+    "R": "09:00 - 10:40"
+  },
+  "MATH330-Lecture-1": {
+    "Instructor": "Abdelrahim S. A. Mousa",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "MATH330-Lecture-2": {
+    "Instructor": "Abdelrahim S. A. Mousa",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "MATH330-Lecture-3": {
+    "Instructor": "Muna Khaled Khaleel Abu Alhalawa",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "MATH331-Lecture-1": {
+    "Instructor": "Marwan M. S. Aloqeili",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "MATH331-Lecture-2": {
+    "Instructor": "Marwan M. S. Aloqeili",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "MATH860-Lecture-1": {
+    "Instructor": "Abdelrahim S. A. Mousa"
+  },
+  "MATH860-Lecture-2": {
+    "Instructor": "Mohammad Ali Deib Saleh"
+  },
+  "PHYS111-Lecture-1": {
+    "Instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "PHYS111-Lecture-2": {
+    "Instructor": "Fatimah Hasan Ahmed Shamasneh",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "PHYS111-Lecture-3": {
+    "Instructor": "Fatimah Hasan Ahmed Shamasneh",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "PHYS111-Lecture-4": {
+    "Instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "PHYS112-Lecture-1": {
+    "Instructor": "Isma'El Mohummad Daoud Badran",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "PHYS112-Lecture-2": {
+    "Instructor": "Isma'El Mohummad Daoud Badran",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "PHYS112-Lecture-3": {
+    "Instructor": "Khalid Fathi Abdalrazzaq Eid",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "PHYS112-Lecture-4": {
+    "Instructor": "Wael Ishaq Hasan Karain",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "PHYS112-Lecture-5": {
+    "Instructor": "Fatimah Hasan Ahmed Shamasneh",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "PHYS112-Lecture-6": {
+    "Instructor": "Wael Ishaq Hasan Karain",
+    "M": "08:00 - 10:40",
+    "W": "08:00 - 10:40"
+  },
+  "PHYS112-Lecture-7": {
+    "Instructor": "Isma'El Mohummad Daoud Badran",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "PHYS112-Lecture-8": {
+    "Instructor": "Ghassan Fakhri Saleh Abbas",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "PHYS112-Lecture-9": {
+    "Instructor": "Khalid Fathi Abdalrazzaq Eid",
+    "T": "08:00 - 10:40",
+    "R": "08:00 - 10:40"
+  },
+  "PHYS112-Lecture-10": {
+    "Instructor": "Ghassan Fakhri Saleh Abbas",
+    "T": "11:00 - 13:40",
+    "R": "11:00 - 13:40"
+  },
+  "PHYS112-Lecture-11": {
+    "Instructor": "Khalid Fathi Abdalrazzaq Eid",
+    "M": "08:00 - 10:40",
+    "W": "08:00 - 10:40"
+  },
+  "PHYS132-Lecture-1": {
+    "Instructor": "Rula Imad Al-Din Said Bakeer",
+    "T": "08:00 - 09:40",
+    "R": "08:00 - 09:40"
+  },
+  "PHYS132-Lecture-2": {
+    "Instructor": "Zafer M. A. Hawash",
+    "T": "11:00 - 12:40",
+    "R": "11:00 - 12:40"
+  },
+  "Discussion-Discussion-4": {
+    "Instructor": "Zafer M. A. Hawash",
+    "M": "11:00 - 11:50",
+    "W": "11:00 - 11:50"
+  },
+  "Discussion-Discussion-5": {
+    "Instructor": "Zafer M. A. Hawash",
+    "T": "14:00 - 14:50",
+    "R": "14:00 - 14:50"
+  },
+  "PHYS141-Lecture-1": {
+    "Instructor": "Abdalaziz A. A. Shawabka",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "PHYS1431-Lecture-1": {
+    "Instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+    "M": "12:00 - 13:40",
+    "T": "12:00 - 13:40",
+    "W": "12:00 - 13:40",
+    "R": "12:00 - 13:40"
+  },
+  "STAT229-Lecture-1": {
+    "Instructor": "Rasha Mohammad Amin Shadid",
+    "M": "10:00 - 11:40",
+    "W": "10:00 - 11:40"
+  },
+  "STAT2311-Lecture-1": {
+    "Instructor": "Mohammad Yousef Hejaze Madiah",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "STAT2361-Lecture-1": {
+    "Instructor": "Areej Mohammad Awwad Awawdah",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "STAT2361-Lecture-2": {
+    "Instructor": "Areej Mohammad Awwad Awawdah",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "GOVS7344-Lecture-1": {
+    "Instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "GOVS801-Lecture-1": {
+    "Instructor": "Mohammad Wajeeh Mohammad Hanini"
+  },
+  "GOVS860-Lecture-1": {
+    "Instructor": "Jehad Yousif Abd-Alrahman Alayasa, Khaled Waled Mohammad Rajab"
+  },
+  "GOVS860-Lecture-2": {
+    "Instructor": "Salem Abdul Latif Abdul Karim Thawaba"
+  },
+  "INRE439-Lecture-1": {
+    "Instructor": "Lourdes B. A. Habash",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "JURI130-Lecture-1": {
+    "Instructor": "Ahmad Ali Hussain Khaled",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "JURI131-Lecture-1": {
+    "Instructor": "Mohammad Faroq Zaki Al Ahmad",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "JURI132-Lecture-1": {
+    "Instructor": "Rinad Kamal Al-Deen Hasan Abdallah",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "JURI134-Lecture-1": {
+    "Instructor": "Fayez Mohummad Ahmad Ibkairat",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "JURI135-Lecture-1": {
+    "Instructor": "Mueen A. M. Barghouthi",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "JURI230-Lecture-1": {
+    "Instructor": "Rinad Kamal Al-Deen Hasan Abdallah",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "JURI230-Lecture-2": {
+    "Instructor": "Tasneem I. A. Kahala",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "JURI231-Lecture-1": {
+    "Instructor": "Raed A. A. Assi/Asfour",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "JURI2311-Lecture-1": {
+    "Instructor": "Hussein Ahed Hussein Ayaseh",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "JURI232-Lecture-1": {
+    "Instructor": "Ahmad Ali Hussain Khaled",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "JURI2341-Lecture-1": {
+    "Instructor": "Mustafa Hussein Mahmoud Abdul Baqi",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "JURI235-Lecture-1": {
+    "Instructor": "Ahmad Ali Hussain Khaled",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "JURI320-Lecture-1": {
+    "Instructor": "Raed A. A. Assi/Asfour",
+    "T": "12:20 - 14:00",
+    "R": "12:20 - 14:00"
+  },
+  "JURI3311-Lecture-1": {
+    "Instructor": "Hussein Ahed Hussein Ayaseh",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "JURI334-Lecture-1": {
+    "Instructor": "Mustafa Hussein Mahmoud Abdul Baqi",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "JURI334-Lecture-2": {
+    "Instructor": "Mustafa Hussein Mahmoud Abdul Baqi",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "JURI338-Lecture-1": {
+    "Instructor": "Jamal Abduljalil Yousif Abu Salem",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "JURI339-Lecture-1": {
+    "Instructor": "Fateh Mahmoud Ahmad Hamarsheh",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "JURI420-Lecture-1": {
+    "Instructor": "Mohammed Fawzi Amin Alkhader",
+    "T": "14:15 - 15:55",
+    "R": "14:15 - 15:55"
+  },
+  "JURI420-Lecture-2": {
+    "Instructor": "Fayez Mohummad Ahmad Ibkairat",
+    "T": "14:15 - 15:55",
+    "R": "14:15 - 15:55"
+  },
+  "JURI421-Lecture-1": {
+    "Instructor": "Raed A. A. Assi/Asfour",
+    "M": "12:20 - 14:00",
+    "W": "12:20 - 14:00"
+  },
+  "JURI4212-Lecture-1": {
+    "Instructor": "Hussein Ahed Hussein Ayaseh",
+    "M": "14:15 - 15:55",
+    "W": "14:15 - 15:55"
+  },
+  "JURI431-Lecture-1": {
+    "Instructor": "Fateh Mahmoud Ahmad Hamarsheh",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "JURI4311-Lecture-1": {
+    "Instructor": "Alaa Mohammad Fares Hamad",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "JURI4351-Lecture-1": {
+    "Instructor": "Jamal Abduljalil Yousif Abu Salem",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "JURI4392-Lecture-1": {
+    "Instructor": "Mohammed Fawzi Amin Alkhader",
+    "M": "14:15 - 16:55",
+    "W": "14:15 - 16:55"
+  },
+  "JURI4393-Lecture-1": {
+    "Instructor": "Diab Mohammad Diab Alshikh",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "JURI7329-Lecture-1": {
+    "Instructor": "Mohammad Faroq Zaki Al Ahmad",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "JURI7332-Lecture-1": {
+    "Instructor": "Amir M. M. Khalil",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "JURI7341-Lecture-1": {
+    "Instructor": "Diab Mohammad Diab Alshikh",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "JURI7352-Lecture-1": {
+    "Instructor": "Amir M. M. Khalil",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "JURI7355-Lecture-1": {
+    "Instructor": "Mohammad Wajeeh Mohammad Hanini",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "JURI7363-Lecture-1": {
+    "Instructor": "Fayez Mohummad Ahmad Ibkairat",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "JURI8302-Lecture-1": {
+    "Instructor": "Fayez Mohummad Ahmad Ibkairat",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "JURI860-Lecture-1": {
+    "Instructor": "Mahmoud M. I. Dodeen"
+  },
+  "JURI860-Lecture-2": {
+    "Instructor": "Diab Mohammad Diab Alshikh"
+  },
+  "JURI860-Lecture-3": {
+    "Instructor": "Hussein Ahed Hussein Ayaseh"
+  },
+  "LECO631-Lecture-1": {
+    "Instructor": "Mohanad Oudah Mohammed Ismael",
+    "T": "14:00 - 16:40",
+    "R": "14:00 - 16:40"
+  },
+  "POLS231-Lecture-1": {
+    "Instructor": "Imad Hassan Musa Ghayathah",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "POLS234-Lecture-1": {
+    "Instructor": "Imad Hassan Musa Ghayathah",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "POLS236-Lecture-1": {
+    "Instructor": "Hani Mahmoud Abed Mousa",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "POLS236-Lecture-2": {
+    "Instructor": "Hani Mahmoud Abed Mousa",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "POLS238-Lecture-1": {
+    "Instructor": "Lourdes B. A. Habash",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "POLS334-Lecture-1": {
+    "Instructor": "Hani Mahmoud Abed Mousa",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "POLS439-Lecture-1": {
+    "Instructor": "Lourdes B. A. Habash",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "PUBA130-Lecture-1": {
+    "Instructor": "Mohammad Wajeeh Mohammad Hanini",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "PUBA135-Lecture-1": {
+    "Instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "PUBA135-Lecture-2": {
+    "Instructor": "Ismail Salama Ismail Iriqat",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "PUBA232-Lecture-1": {
+    "Instructor": "Nabil A. A. Taleeb",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "PUBA331-Lecture-1": {
+    "Instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "PUBA332-Lecture-1": {
+    "Instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "PUBA334-Lecture-1": {
+    "Instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "PUBA335-Lecture-1": {
+    "Instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "PUBA3351-Lecture-1": {
+    "Instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "PUBA3391-Lecture-1": {
+    "Instructor": "Nasser M. R. Shaikhali",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "PUBA3391-Lecture-2": {
+    "Instructor": "Nasser M. R. Shaikhali",
+    "M": "15:00 - 16:10",
+    "T": "15:00 - 16:10",
+    "W": "15:00 - 16:10",
+    "R": "15:00 - 16:10"
+  },
+  "PUBA411-Lecture-1": {
+    "Instructor": "Mohammad Wajeeh Mohammad Hanini"
+  },
+  "PUBA411-Lecture-2": {
+    "Instructor": "Nour Hatem Ahmad Mattour"
+  },
+  "PUBA411-Lecture-3": {
+    "Instructor": "Nour Hatem Ahmad Mattour"
+  },
+  "PUBA411-Lecture-4": {
+    "Instructor": "Mayyada Ismae'L Hasan Badawi"
+  },
+  "PUBA411-Lecture-5": {
+    "Instructor": "Mayyada Ismae'L Hasan Badawi"
+  },
+  "PUBA411-Lecture-6": {
+    "Instructor": "Ismail Salama Ismail Iriqat"
+  },
+  "PUBA411-Lecture-7": {
+    "Instructor": "Nour Hatem Ahmad Mattour"
+  },
+  "PUBA411-Lecture-8": {
+    "Instructor": "Ismail Salama Ismail Iriqat"
+  },
+  "MIPT831-Lecture-1": {
+    "Instructor": "Hani Abul Hafez Ibrahim Shtaya",
+    "M": "11:00 - 13:40",
+    "W": "11:00 - 13:40"
+  },
+  "NURS130-Lecture-1": {
+    "Instructor": "Mais Ibrahim Ali Abdelhaq",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "NURS133-Lecture-1": {
+    "Instructor": "Mahmoud W. M. Kaied",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "NURS222-Lecture-1": {
+    "Instructor": "Imad Tawfiq Mohammad Asmar",
+    "M": "12:20 - 14:00",
+    "W": "12:20 - 14:00"
+  },
+  "NURS222-Lecture-2": {
+    "Instructor": "Imad Tawfiq Mohammad Asmar",
+    "T": "10:00 - 11:40",
+    "R": "10:00 - 11:40"
+  },
+  "NURS3370-Lecture-1": {
+    "Instructor": "Ibtisam Shaqour Mohammad Shawer"
+  },
+  "NURS3370-Lecture-2": {
+    "Instructor": "Khalid Samer Ahmad Yaseen"
+  },
+  "NURS438-Lecture-1": {
+    "Instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "NURS4471-Lecture-1": {
+    "Instructor": "Ibtisam Shaqour Mohammad Shawer"
+  },
+  "NURS4471-Lecture-2": {
+    "Instructor": "Khalid Samer Ahmad Yaseen"
+  },
+  "NURS5155-Lecture-1": {
+    "Instructor": "Khalid Samer Ahmad Yaseen"
+  },
+  "NURS5156-Lecture-1": {
+    "Instructor": "Khalid Samer Ahmad Yaseen"
+  },
+  "NURS5253-Lecture-1": {
+    "Instructor": "Mutaz Mohammed Mohammed Jamil Dredei"
+  },
+  "NURS5254-Lecture-1": {
+    "Instructor": "Hiba Haider Lotfe Falana, Hosniyeh Emad Thiab Ladadweh"
+  },
+  "NURS5351-Lecture-1": {
+    "Instructor": "Dina Yousef Khaleel Alzama'Reh"
+  },
+  "NURS5352-Lecture-1": {
+    "Instructor": "Omar Hasan Abdulghani Almahmoud"
+  },
+  "NURS5550-Lecture-1": {
+    "Instructor": "Hatem Khalaf Mohammed Idais Manasrah, Imad Tawfiq Mohammad Asmar"
+  },
+  "NUTD436-Lecture-1": {
+    "Instructor": "Sherein A. Y. Omar"
+  },
+  "PHAR3201-Lecture-1": {
+    "Instructor": "Mohammed I. A. Enaia"
+  },
+  "PHAR3201-Lecture-2": {
+    "Instructor": "Mohammed I. A. Enaia"
+  },
+  "PHAR3201-Lecture-3": {
+    "Instructor": "Mohammed I. A. Enaia"
+  },
+  "PHAR4101-Lecture-1": {
+    "Instructor": "Raed Mohammad Yousef Madia"
+  },
+  "PHAR4101-Lecture-2": {
+    "Instructor": "Raed Mohammad Yousef Madia"
+  },
+  "PHAR4101-Lecture-3": {
+    "Instructor": "Hiba Haider Lotfe Falana"
+  },
+  "SPAU132-Lecture-1": {
+    "Instructor": "Mais Ibrahim Ali Abdelhaq",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "EDUC235-Lecture-1": {
+    "Instructor": "Mousa Mohammed Mousa Khaldi",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "EDUC334-Lecture-1": {
+    "Instructor": "Mousa Mohammed Mousa Khaldi",
+    "M": "08:00 - 09:10",
+    "T": "08:00 - 09:10",
+    "W": "08:00 - 09:10",
+    "R": "08:00 - 09:10"
+  },
+  "EDUC334-Lecture-2": {
+    "Instructor": "Hasan Mahmoud Awad Abdelkareem",
+    "M": "09:20 - 10:30",
+    "T": "09:20 - 10:30",
+    "W": "09:20 - 10:30",
+    "R": "09:20 - 10:30"
+  },
+  "EDUC431-Lecture-1": {
+    "Instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+    "M": "12:20 - 13:30",
+    "T": "12:20 - 13:30",
+    "W": "12:20 - 13:30",
+    "R": "12:20 - 13:30"
+  },
+  "EDUC431-Lecture-2": {
+    "Instructor": "Hasan Mahmoud Awad Abdelkareem",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "EDUC432-Lecture-1": {
+    "Instructor": "Mahmoud Mohamad Hamdan Abu-Shama",
+    "M": "11:00 - 12:10",
+    "T": "11:00 - 12:10",
+    "W": "11:00 - 12:10",
+    "R": "11:00 - 12:10"
+  },
+  "EDUC621-Lecture-1": {
+    "Instructor": "Hasan Mahmoud Awad Abdelkareem",
+    "M": "12:20 - 14:10",
+    "W": "12:20 - 14:10"
+  },
+  "EDUC621-Lecture-2": {
+    "Instructor": "Ola 'M.Monther' Rafic Khalili",
+    "M": "12:00 - 13:40",
+    "W": "12:00 - 13:40"
+  },
+  "EDUC7392-Lecture-1": {
+    "Instructor": "Mohammed R. M. Sulaiman",
+    "M": "09:00 - 11:40",
+    "W": "09:00 - 11:40"
+  },
+  "EDUC839-Lecture-1": {
+    "Instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+    "M": "14:30 - 17:10",
+    "W": "14:30 - 17:10"
+  },
+  "EDUC839-Lecture-2": {
+    "Instructor": "Ola 'M.Monther' Rafic Khalili",
+    "M": "14:30 - 17:10",
+    "W": "14:30 - 17:10"
+  },
+  "EDUC860-Lecture-1": {
+    "Instructor": "Anwar Ahmad Mohammad Abdel Razeq"
+  },
+  "EDUC860-Lecture-2": {
+    "Instructor": "Anwar Ahmad Mohammad Abdel Razeq"
+  },
+  "EDUC860-Lecture-3": {
+    "Instructor": "Bihan Ahmad Taher Al_Qaimari"
+  },
+  "EDUC860-Lecture-4": {
+    "Instructor": "Abdallah Ibrahim Atiyeh Bsharat"
+  },
+  "EDUC860-Lecture-5": {
+    "Instructor": "Mousa Mohammed Mousa Khaldi"
+  },
+  "PHED120-Lecture-1": {
+    "Instructor": "Rafi Hussien Mahmoud Asfour",
+    "M": "10:00 - 11:40",
+    "W": "10:00 - 11:40"
+  },
+  "PHED211-Lecture-1": {
+    "Instructor": "Tareq Gazi Ayesh Raja",
+    "M": "12:00 - 13:40",
+    "W": "12:00 - 13:40"
+  },
+  "PHED227-Lecture-1": {
+    "Instructor": "Waleed Mohammad Hassan Shaheen",
+    "T": "10:00 - 11:40",
+    "R": "10:00 - 11:40"
+  },
+  "PHED227-Lecture-2": {
+    "Instructor": "Reem Mustafa Mohammad Hamad",
+    "M": "10:00 - 11:40",
+    "W": "10:00 - 11:40"
+  },
+  "PHED227-Lecture-3": {
+    "Instructor": "Reem Mustafa Mohammad Hamad",
+    "M": "12:00 - 13:40",
+    "W": "12:00 - 13:40"
+  },
+  "PHED227-Lecture-4": {
+    "Instructor": "Waleed Mohammad Hassan Shaheen",
+    "T": "12:00 - 13:40",
+    "R": "12:00 - 13:40"
+  },
+  "PHED228-Lecture-1": {
+    "Instructor": "Mahmoud W. M. Kaied",
+    "M": "10:00 - 11:40",
+    "W": "10:00 - 11:40"
+  },
+  "PHED321-Lecture-1": {
+    "Instructor": "Tareq Gazi Ayesh Raja",
+    "T": "10:00 - 11:40",
+    "R": "10:00 - 11:40"
+  },
+  "PHED326-Lecture-1": {
+    "Instructor": "Mahmoud W. M. Kaied",
+    "M": "08:00 - 09:40",
+    "W": "08:00 - 09:40"
+  },
+  "PHED327-Lecture-1": {
+    "Instructor": "Waleed Mohammad Hassan Shaheen",
+    "T": "08:00 - 09:40",
+    "R": "08:00 - 09:40"
+  },
+  "PHED327-Lecture-2": {
+    "Instructor": "Reem Mustafa Mohammad Hamad",
+    "M": "08:00 - 09:40",
+    "W": "08:00 - 09:40"
+  },
+  "PHED327-Lecture-3": {
+    "Instructor": "Waleed Mohammad Hassan Shaheen",
+    "T": "14:00 - 15:40",
+    "R": "14:00 - 15:40"
+  },
+  "PHED336-Lecture-1": {
+    "Instructor": "Iyad Abdallh Hassan Yousef",
+    "M": "14:15 - 15:25",
+    "T": "14:15 - 15:25",
+    "W": "14:15 - 15:25",
+    "R": "14:15 - 15:25"
+  },
+  "PHED420-Lecture-1": {
+    "Instructor": "Iyad Abdallh Hassan Yousef",
+    "M": "10:00 - 11:40",
+    "W": "10:00 - 11:40"
+  },
+  "PHED4203-Lecture-1": {
+    "Instructor": "Rafi Hussien Mahmoud Asfour",
+    "T": "12:00 - 13:40",
+    "R": "12:00 - 13:40"
+  },
+  "PHED4207-Lecture-1": {
+    "Instructor": "Rafi Hussien Mahmoud Asfour",
+    "T": "09:00 - 10:40",
+    "R": "09:00 - 10:40"
+  },
+  "PHED425-Lecture-1": {
+    "Instructor": "Iyad Abdallh Hassan Yousef",
+    "M": "12:00 - 13:40",
+    "W": "12:00 - 13:40"
+  },
+  "PHED431-Lecture-1": {
+    "Instructor": "Tareq Gazi Ayesh Raja",
+    "M": "14:00 - 15:10",
+    "T": "14:00 - 15:10",
+    "W": "14:00 - 15:10",
+    "R": "14:00 - 15:10"
+  },
+  "PHED438-Lecture-1": {
+    "Instructor": "Rafi Hussien Mahmoud Asfour",
+    "M": "14:00 - 16:40",
+    "W": "14:00 - 16:40"
+  },
+  "PHED438-Lecture-2": {
+    "Instructor": "Mahmoud W. M. Kaied",
+    "T": "08:00 - 10:40",
+    "R": "08:00 - 10:40"
+  },
+  "COVA3240-Lecture-1": {
+    "Instructor": "Reem N. A. Masri"
+  },
+  "DSGN1381-Lecture-1": {
+    "Instructor": "Ayman S. I. Zaid",
+    "M": "08:00 - 08:50",
+    "W": "08:00 - 08:50"
+  },
+  "DSGN1381-Lab-1": {
+    "Instructor": "Ayman S. I. Zaid",
+    "M": "09:00 - 11:40",
+    "T": "09:00 - 11:40",
+    "W": "09:00 - 11:40",
+    "R": "09:00 - 11:40"
+  },
+  "DSGN304-Lecture-1": {
+    "Instructor": "Ayman S. I. Zaid"
+  }
+}

@@ -1,0 +1,97 @@
+Weekly Schedule for Year 1 - Semester 3:
+-----------------
+M:
+  09:00 - 09:50: ENGC1201-Rabah Fahed Ahmad 'A.Ahmad'-1
+  11:00 - 13:40: COMP133-Samer Mas'Oud Ahmad Zein-1
+T:
+  09:00 - 09:50: ENGC1201-Rabah Fahed Ahmad 'A.Ahmad'-1
+  14:00 - 16:40: PHYS112-Isma'El Mohummad Daoud Badran-1
+W:
+  09:00 - 09:50: ENGC1201-Rabah Fahed Ahmad 'A.Ahmad'-1
+  11:00 - 13:40: COMP133-Samer Mas'Oud Ahmad Zein-1
+R:
+  09:00 - 09:50: ENGC1201-Rabah Fahed Ahmad 'A.Ahmad'-1
+  14:00 - 16:40: PHYS112-Isma'El Mohummad Daoud Badran-1
+S:
+No Classes Scheduled
+Weekly Schedule for Year 2 - Semester 1:
+-----------------
+M:
+  11:25 - 12:40: ENCS4370-Ayman Ali Mohammad Hroub-1
+T:
+  12:50 - 14:05: ENCS2340-Ismail Mohammad Mousa Khater-1
+W:
+  08:30 - 09:45: ENCS3310-Abdallatif S. A. Abuissa-1
+  11:25 - 12:40: ENCS4370-Ayman Ali Mohammad Hroub-1
+  12:50 - 14:05: ENCS2380-Abualseoud Ahmad Abualseoud Hanani-1
+R:
+  12:50 - 14:05: ENCS2340-Ismail Mohammad Mousa Khater-1
+S:
+  08:30 - 09:45: ENCS3310-Abdallatif S. A. Abuissa-1
+  12:50 - 14:05: ENCS2380-Abualseoud Ahmad Abualseoud Hanani-1
+  14:15 - 15:05: ENME121-Rashad Irsan Hassan Mustafa-1
+Weekly Schedule for Year 2 - Semester 2:
+-----------------
+M:
+No Classes Scheduled
+T:
+  12:50 - 14:05: ARAB136-Samir Mohammad Nimer Mouqada-1
+W:
+  08:00 - 09:40: COMP2421-Ahmed A. A. Abusnaina-1
+  11:25 - 12:15: COMP2310-Mohammad Y. M. Alkhanafseh-1
+R:
+  12:50 - 14:05: ARAB136-Samir Mohammad Nimer Mouqada-1
+S:
+  08:00 - 09:40: COMP2421-Ahmed A. A. Abusnaina-1
+  11:25 - 12:15: COMP2310-Mohammad Y. M. Alkhanafseh-1
+Weekly Schedule for Year 2 - Semester 3:
+-----------------
+M:
+  10:00 - 10:50: ENGC1202-Othman Diab Mosa Amer-1
+  11:00 - 13:40: ENCS2110-Khader Shehadeh Nassar Mohammad-2
+  14:00 - 15:10: COMP233-Radi A. R. Jarrar-1
+T:
+  10:00 - 10:50: ENGC1202-Othman Diab Mosa Amer-1
+  14:00 - 15:10: COMP233-Radi A. R. Jarrar-1
+W:
+  10:00 - 10:50: ENGC1202-Othman Diab Mosa Amer-1
+  11:00 - 13:40: ENCS2110-Khader Shehadeh Nassar Mohammad-2
+  14:00 - 15:10: COMP233-Radi A. R. Jarrar-1
+R:
+  10:00 - 10:50: ENGC1202-Othman Diab Mosa Amer-1
+  14:00 - 15:10: COMP233-Radi A. R. Jarrar-1
+S:
+No Classes Scheduled
+Weekly Schedule for Year 3 - Semester 1:
+-----------------
+M:
+  10:00 - 11:15: MATH331-Abdelrahim S. A. Mousa-1
+  11:25 - 12:40: MATH331-Abdelrahim S. A. Mousa-2
+  12:50 - 14:05: ENEE2312-Jamal Othman Hosen Seyam-1
+T:
+  08:30 - 09:45: ENEE3309-Ashraf Sulieman Awad Al-Rimawi-2
+W:
+  12:50 - 14:05: ENEE2312-Jamal Othman Hosen Seyam-1
+R:
+  08:30 - 09:45: ENEE3309-Ashraf Sulieman Awad Al-Rimawi-2
+S:
+  10:00 - 11:15: MATH331-Abdelrahim S. A. Mousa-1
+  11:25 - 12:40: MATH331-Abdelrahim S. A. Mousa-2
+  13:00 - 13:50: PHYS430-Zafer M. A. Hawash-1
+Weekly Schedule for Year 3 - Semester 2:
+-----------------
+M:
+  08:30 - 09:45: ENEE2304-Hakam Suleiman Nu'Man Shehadeh-1
+  10:00 - 11:15: ENCS3340-Yazan Jamal Ibrahim Abu Farha-2
+  12:50 - 14:05: ENEE2307-unknown-1
+T:
+  10:00 - 11:15: MATH234-Ala Ata Abdelhady Talahmeh-1
+  11:25 - 12:40: COMP333-Bassem Sami Ahmad Sayrafi-1
+W:
+  08:30 - 09:45: ENEE2304-Hakam Suleiman Nu'Man Shehadeh-1
+  10:00 - 11:15: ENCS3340-Yazan Jamal Ibrahim Abu Farha-2
+R:
+  10:00 - 11:15: MATH234-Ala Ata Abdelhady Talahmeh-1
+  11:25 - 12:40: COMP333-Bassem Sami Ahmad Sayrafi-1
+S:
+  12:50 - 14:05: ENEE2307-unknown-1
