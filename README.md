@@ -55,6 +55,7 @@ Study-Schedule-Planner/
 └── README.md              # Documentation and usage instructions
 
 
+
 ## How to Run
 
 1. Clone the repository to your local machine.
