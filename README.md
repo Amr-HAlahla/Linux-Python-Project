@@ -14,28 +14,29 @@ The Study Schedule Planner is a Python script designed to help students plan the
 ## Usage
 
 1. **Input Data**:
-   - Provide the study plan, including prerequisites and elective courses.
-   - Input student records to track passed courses and determine the current year and semester.
-   - Input course data from CourseBrowser JSON files.
+  - Provide the study plan, including prerequisites and elective courses (in `study_plan.txt`).
+  - Input student records to track passed courses and determine the current year and semester (in `student_records.txt`).
+  - Input course data from JSON files following the format `courses_semesterX.json` (e.g., `courses_semester1.json`).
 
 2. **Set User Preferences**:
-   - Specify preferences such as maximum credit hours per semester.
+  - Specify preferences such as maximum credit hours per semester within the script.
 
 3. **Generate Schedules**:
-   - Run the script to generate semester-wise schedules based on the input data and user preferences.
+  - Run the script `python main.py` to generate semester-wise schedules based on the input data and user preferences.
 
 4. **View Schedules**:
-   - Review the generated schedules, which include details of courses scheduled for each day and time.
+  - Review the generated schedules, which include details of courses scheduled for each day and time.
 
 5. **Save Schedules** (Optional):
-   - Optionally save the generated schedules to a text file for future reference.
+  - Optionally save the generated schedules to a text file for future reference.
 
 ## Dependencies
 
 - Python 3.x
 - External libraries: None
 
-## File Structure:
+## File Structure
+
 .
 ├── main.py # Main script for data processing and generating study schedules
 ├── readCourse.py # Script for reading course data from JSON files
@@ -46,8 +47,6 @@ The Study Schedule Planner is a Python script designed to help students plan the
 ├── student_records.txt# Input file containing student records
 ├── electives.txt # Input file containing elective courses
 └── README.md # Documentation and usage instructions
-
-
 
 ## How to Run
 
