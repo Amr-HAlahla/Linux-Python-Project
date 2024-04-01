@@ -39,11 +39,11 @@ The Study Schedule Planner is a Python script designed to help students plan the
 
 - main.py
 - readCourse.py
-- CourseData/
+- CourseData
   - CourseBrowser1.json
   - CourseBrowser2.json
   - CourseBrowser3.json
-- input/
+- input
   - study_plan.txt
   - student_records.txt
   - electives.txt
