@@ -35,7 +35,8 @@ The Study Schedule Planner is a Python script designed to help students plan the
 - Python 3.x
 - External libraries: None
 
-## File Structure
+##File Structure:
+
 study-schedule-planner/
 │
 ├── main.py            # Main script for data processing and generating study schedules
