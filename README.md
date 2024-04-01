@@ -38,21 +38,18 @@ The Study Schedule Planner is a Python script designed to help students plan the
 ## File Structure
 
 Study-Schedule-Planner/
-│
-├── main.py                # Main script for data processing and generating study schedules
-├── readCourse.py          # Script for reading course data from JSON files
-│
-├── CourseData/            # Directory containing course data for each semester
-│   ├── CourseBrowser1.json   # Input file containing course data for Semester 1
-│   ├── CourseBrowser2.json   # Input file containing course data for Semester 2
-│   └── CourseBrowser3.json   # Input file containing course data for Semester 3
-│
+├── main.py                # Main script for generating study schedules
+├── readCourse.py          # Script for reading course data
+├── CourseData/            # Directory containing course data
+│   ├── CourseBrowser1.json   # Course data for Semester 1
+│   ├── CourseBrowser2.json   # Course data for Semester 2
+│   └── CourseBrowser3.json   # Course data for Semester 3
 ├── input/                 # Directory containing input files
-│   ├── study_plan.txt        # Input file containing the study plan
-│   ├── student_records.txt   # Input file containing student records
-│   └── electives.txt         # Input file containing elective courses
-│
+│   ├── study_plan.txt        # Study plan input file
+│   ├── student_records.txt   # Student records input file
+│   └── electives.txt         # Elective courses input file
 └── README.md              # Documentation and usage instructions
+
 
 
 
